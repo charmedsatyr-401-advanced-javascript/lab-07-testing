@@ -1,21 +1,25 @@
 {
-  "name": "middleware-practice",
+  "name": "testing-practice",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "jest --coverage --verbose"
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --coverage --verbose --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "jest": "^23.6.0",
-    "supertest": "^3.4.2"
+    "express": "^4.16.4"
   },
   "devDependencies": {
-    "jsdoc": "^3.5.5"
+    "eslint": "^5.15.3",
+    "faker": "^4.1.0",
+    "jest": "^23.6.0",
+    "jsdoc": "^3.5.5",
+    "supertest": "^3.4.2"
   }
 }
