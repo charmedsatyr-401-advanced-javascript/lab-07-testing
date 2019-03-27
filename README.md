@@ -55,7 +55,6 @@ N/A
 
 `npm run test`
 `npm run test-watch`
-`npm run lint`
 
 * What assertions were made?
   
