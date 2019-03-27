@@ -7,15 +7,21 @@
 
 ### Links and Resources
 * [PR](https://github.com/charmedsatyr-401-advanced-javascript/lab-07-testing/pull/1)
+* [![Build Status](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing.svg?branch=master)](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing)
+
 
 #### Documentation
 N/A
 
 ### Modules
 `./index.js`
+
 `./server.js`
+
 `./__mocks__/next.js`
+
 `./__mocks__/request.js`
+
 `./__mocks__/response.js`
 
 ##### Exported Values and Methods from `server.js`
