@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [PR](https://github.com/charmedsatyr-401-advanced-javascript/lab-07-testing/pull/1)
-* [![Build Status](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing.svg?branch=master)](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing)
+* [![Build Status](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing.svg?branch=submission)](https://travis-ci.org/charmedsatyr-401-advanced-javascript/lab-07-testing)
 
 
 #### Documentation
