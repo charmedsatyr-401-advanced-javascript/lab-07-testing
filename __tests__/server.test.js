@@ -13,13 +13,7 @@ const mockRequest = require('../__mocks__/request.js');
 const mockResponse = require('../__mocks__/response.js');
 const mockNext = require('../__mocks__/next.js');
 
-// Not quite sure how to spy on `next`
-// const express = require('express');
-// jest.spyOn(express, 'next');
-// jest.spyOn(express, 'next').mockImplementation(() => {});
-// jest.spyOn(server, 'next').mockImplementation(() => {});
-// jest.spyOn(server, 'next')
-
+// supertest
 const mockClient = supertest(server);
 
 // TESTING WITH SUPERTEST
